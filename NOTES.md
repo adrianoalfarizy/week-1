@@ -1,2 +1,12 @@
-27/02/2025	Setting WSL2 Ubuntu, buat folder	Tidak ada error
-28/02/2025	Git init, git remote, git push		Tidak bisa push karena authentication, solve dengan PAT, setiap push butuh authentication
+Tanggal : 27/02/2025
+Yang Saya Pelajari hari ini : 
+- Setting WSL2 Ubuntu, buat folder
+
+Error/hal membingungkan :
+- Tidak ada error
+
+Tanggal : 28/02/2025
+Yang Saya Pelajari hari ini :
+Git init, git remote, git push
+Error/hal membingungkan :
+Tidak bisa push karena authentication, solve dengan PAT, setiap push butuh authentication
